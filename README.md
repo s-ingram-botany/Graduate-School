@@ -1,3 +1,4 @@
 # Graduate-School
 Graduate school coding files
 This README file
+This README file contains information about my uploaded assignments
